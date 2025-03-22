@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎮 The Best Tours System", "Playing Stumble Guys", "Developed by ||M4tfa||"];
+const statusMessages = ["🎮 The Best Tours System", "Playing 𝗦𝘁𝘂𝗺𝗯𝗹𝗲 𝗚𝘂𝘆𝘀", "Developed by 𝗠𝟰𝘁𝗳𝗮"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
